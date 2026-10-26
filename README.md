@@ -1,3 +1,5 @@
+#Desculpe o atraso a viagem do next tava uma loucura :) 
+
 # metodo-ordenacao
 
 Bubble sort em Python com testes.
